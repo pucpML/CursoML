@@ -9,3 +9,7 @@ Para clonar este repositorio utiliza el siguiente comando:
 Si no tienes instalado git en tu colab, lo puedes intalar usando el sigueinte comando
 
 !apt-get install git
+
+
+Si quieres instalar git en tu computador, lo puede descargar en el sigueinte enlace:
+https://git-scm.com/downloads
